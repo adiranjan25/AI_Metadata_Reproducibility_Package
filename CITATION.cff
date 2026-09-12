@@ -1,0 +1,50 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package in your research, please cite it using the metadata below."
+
+title: "AI Metadata Reproducibility Package"
+type: software
+
+authors:
+  - family-names: "Aditya Ranjan"
+    given-names: "FNU"
+
+abstract: >
+  Reproducibility package accompanying the research study
+  "AI-Driven Metadata Management for Modern Data Warehouse and Lakehouse
+  Architectures." The package contains experiment scripts, controlled
+  metadata datasets, environment specifications, raw benchmark outputs,
+  classification results, chart-generation code, publication figures,
+  and data and code availability documentation.
+
+repository-code: "https://github.com/adiranjan25/AI_Metadata_Reproducibility_Package"
+url: "https://github.com/adiranjan25/AI_Metadata_Reproducibility_Package"
+
+license: Apache-2.0
+version: 1.0.0
+date-released: 2026-09-12
+
+keywords:
+  - metadata management
+  - data engineering
+  - data governance
+  - data lineage
+  - data catalog
+  - data warehouse
+  - lakehouse
+  - artificial intelligence
+  - machine learning
+  - semantic metadata
+  - reproducible research
+
+preferred-citation:
+  type: software
+  title: "AI Metadata Reproducibility Package"
+  authors:
+    - family-names: "Aditya Ranjan"
+      given-names: "FNU"
+  version: 1.0.0
+  date-released: 2026-09-12
+  repository-code: "https://github.com/adiranjan25/AI_Metadata_Reproducibility_Package"
+  license: Apache-2.0
+```
