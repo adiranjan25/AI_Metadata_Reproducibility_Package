@@ -1,0 +1,136 @@
+{
+  "classification": {
+    "train_rows": 168,
+    "test_rows": 72,
+    "heldout_fields": [
+      "PULocationID",
+      "RatecodeID",
+      "fare_amount",
+      "tolls_amount",
+      "tpep_dropoff_datetime",
+      "trip_distance"
+    ],
+    "accuracy": 0.6666666666666666,
+    "macro_f1": 0.5352112676056338,
+    "labels": [
+      "financial",
+      "identifier",
+      "location",
+      "operational",
+      "temporal"
+    ],
+    "confusion_matrix": [
+      [
+        24,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        11,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        12,
+        0,
+        0
+      ],
+      [
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "financial": {
+        "precision": 0.5106382978723404,
+        "recall": 1.0,
+        "f1-score": 0.676056338028169,
+        "support": 24.0
+      },
+      "identifier": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "location": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "operational": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "temporal": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "accuracy": 0.6666666666666666,
+      "macro avg": {
+        "precision": 0.502127659574468,
+        "recall": 0.6,
+        "f1-score": 0.5352112676056338,
+        "support": 72.0
+      },
+      "weighted avg": {
+        "precision": 0.5035460992907801,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.5586854460093896,
+        "support": 72.0
+      }
+    }
+  },
+  "benchmark": [
+    {
+      "entities": 10000,
+      "index_build_s": 0.08283246399992095,
+      "p50_ms": 1.7316564998282047,
+      "p95_ms": 1.9329518499716867,
+      "p99_ms": 2.108444340012739
+    },
+    {
+      "entities": 50000,
+      "index_build_s": 0.42916654800001197,
+      "p50_ms": 8.67862350003179,
+      "p95_ms": 9.40028875002099,
+      "p99_ms": 10.014377180013986
+    },
+    {
+      "entities": 100000,
+      "index_build_s": 0.8869906600000377,
+      "p50_ms": 18.33191150001312,
+      "p95_ms": 19.127031150014773,
+      "p99_ms": 20.642786110020104
+    }
+  ],
+  "environment": {
+    "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit_learn": "1.8.0",
+    "random_seed": 42
+  }
+}

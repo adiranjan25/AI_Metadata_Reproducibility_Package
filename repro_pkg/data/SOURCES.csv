@@ -1,0 +1,5 @@
+source,purpose,url,accessed
+NYC TLC Trip Record Data,Public dataset landing page and documented 2025 schema change,https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page,2026-09-12
+NYC TLC Yellow Taxi Data Dictionary,Field names/descriptions and cbd_congestion_fee definition,https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf,2026-09-12
+NYC TLC Green Taxi Data Dictionary,Independent confirmation of cbd_congestion_fee definition,https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf,2026-09-12
+OpenMetadata Cluster Sizing Runbook,External systems-benchmark context only,https://github.com/open-metadata/openmetadata/blob/main/bin/distributed-test/CLUSTER-SIZING-RUNBOOK.md,2026-09-12

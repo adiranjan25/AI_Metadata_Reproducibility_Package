@@ -1,0 +1,241 @@
+field,label,text
+VendorID,identifier,VendorID: identifier for the technology provider that supplied the trip record.
+VendorID,identifier,Field VendorID records identifier for the technology provider that supplied the trip record.
+VendorID,identifier,Metadata element VendorID; meaning: identifier for the technology provider that supplied the trip record.
+VendorID,identifier,identifier for the technology provider that supplied the trip record; source field is VendorID.
+VendorID,identifier,Column VendorID represents identifier for the technology provider that supplied the trip record.
+VendorID,identifier,VendorID is used for identifier for the technology provider that supplied the trip record.
+VendorID,identifier,Business definition for VendorID: identifier for the technology provider that supplied the trip record.
+VendorID,identifier,Schema attribute VendorID captures identifier for the technology provider that supplied the trip record.
+VendorID,identifier,Data dictionary entry VendorID: identifier for the technology provider that supplied the trip record.
+VendorID,identifier,VendorID — identifier for the technology provider that supplied the trip record.
+VendorID,identifier,"In the trip record, VendorID means identifier for the technology provider that supplied the trip record."
+VendorID,identifier,Technical field VendorID contains identifier for the technology provider that supplied the trip record.
+tpep_pickup_datetime,temporal,tpep_pickup_datetime: date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,Field tpep_pickup_datetime records date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,Metadata element tpep_pickup_datetime; meaning: date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,date and time when the taximeter was engaged for pickup; source field is tpep_pickup_datetime.
+tpep_pickup_datetime,temporal,Column tpep_pickup_datetime represents date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,tpep_pickup_datetime is used for date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,Business definition for tpep_pickup_datetime: date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,Schema attribute tpep_pickup_datetime captures date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,Data dictionary entry tpep_pickup_datetime: date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,tpep_pickup_datetime — date and time when the taximeter was engaged for pickup.
+tpep_pickup_datetime,temporal,"In the trip record, tpep_pickup_datetime means date and time when the taximeter was engaged for pickup."
+tpep_pickup_datetime,temporal,Technical field tpep_pickup_datetime contains date and time when the taximeter was engaged for pickup.
+tpep_dropoff_datetime,temporal,tpep_dropoff_datetime: date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,Field tpep_dropoff_datetime records date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,Metadata element tpep_dropoff_datetime; meaning: date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,date and time when the taximeter was disengaged at dropoff; source field is tpep_dropoff_datetime.
+tpep_dropoff_datetime,temporal,Column tpep_dropoff_datetime represents date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,tpep_dropoff_datetime is used for date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,Business definition for tpep_dropoff_datetime: date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,Schema attribute tpep_dropoff_datetime captures date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,Data dictionary entry tpep_dropoff_datetime: date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,tpep_dropoff_datetime — date and time when the taximeter was disengaged at dropoff.
+tpep_dropoff_datetime,temporal,"In the trip record, tpep_dropoff_datetime means date and time when the taximeter was disengaged at dropoff."
+tpep_dropoff_datetime,temporal,Technical field tpep_dropoff_datetime contains date and time when the taximeter was disengaged at dropoff.
+passenger_count,operational,passenger_count: number of passengers in the vehicle.
+passenger_count,operational,Field passenger_count records number of passengers in the vehicle.
+passenger_count,operational,Metadata element passenger_count; meaning: number of passengers in the vehicle.
+passenger_count,operational,number of passengers in the vehicle; source field is passenger_count.
+passenger_count,operational,Column passenger_count represents number of passengers in the vehicle.
+passenger_count,operational,passenger_count is used for number of passengers in the vehicle.
+passenger_count,operational,Business definition for passenger_count: number of passengers in the vehicle.
+passenger_count,operational,Schema attribute passenger_count captures number of passengers in the vehicle.
+passenger_count,operational,Data dictionary entry passenger_count: number of passengers in the vehicle.
+passenger_count,operational,passenger_count — number of passengers in the vehicle.
+passenger_count,operational,"In the trip record, passenger_count means number of passengers in the vehicle."
+passenger_count,operational,Technical field passenger_count contains number of passengers in the vehicle.
+trip_distance,operational,trip_distance: elapsed trip distance reported by the taximeter.
+trip_distance,operational,Field trip_distance records elapsed trip distance reported by the taximeter.
+trip_distance,operational,Metadata element trip_distance; meaning: elapsed trip distance reported by the taximeter.
+trip_distance,operational,elapsed trip distance reported by the taximeter; source field is trip_distance.
+trip_distance,operational,Column trip_distance represents elapsed trip distance reported by the taximeter.
+trip_distance,operational,trip_distance is used for elapsed trip distance reported by the taximeter.
+trip_distance,operational,Business definition for trip_distance: elapsed trip distance reported by the taximeter.
+trip_distance,operational,Schema attribute trip_distance captures elapsed trip distance reported by the taximeter.
+trip_distance,operational,Data dictionary entry trip_distance: elapsed trip distance reported by the taximeter.
+trip_distance,operational,trip_distance — elapsed trip distance reported by the taximeter.
+trip_distance,operational,"In the trip record, trip_distance means elapsed trip distance reported by the taximeter."
+trip_distance,operational,Technical field trip_distance contains elapsed trip distance reported by the taximeter.
+RatecodeID,identifier,RatecodeID: rate code in effect at the end of the trip.
+RatecodeID,identifier,Field RatecodeID records rate code in effect at the end of the trip.
+RatecodeID,identifier,Metadata element RatecodeID; meaning: rate code in effect at the end of the trip.
+RatecodeID,identifier,rate code in effect at the end of the trip; source field is RatecodeID.
+RatecodeID,identifier,Column RatecodeID represents rate code in effect at the end of the trip.
+RatecodeID,identifier,RatecodeID is used for rate code in effect at the end of the trip.
+RatecodeID,identifier,Business definition for RatecodeID: rate code in effect at the end of the trip.
+RatecodeID,identifier,Schema attribute RatecodeID captures rate code in effect at the end of the trip.
+RatecodeID,identifier,Data dictionary entry RatecodeID: rate code in effect at the end of the trip.
+RatecodeID,identifier,RatecodeID — rate code in effect at the end of the trip.
+RatecodeID,identifier,"In the trip record, RatecodeID means rate code in effect at the end of the trip."
+RatecodeID,identifier,Technical field RatecodeID contains rate code in effect at the end of the trip.
+store_and_fwd_flag,operational,store_and_fwd_flag: whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,Field store_and_fwd_flag records whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,Metadata element store_and_fwd_flag; meaning: whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,whether the trip record was held in vehicle memory before transmission; source field is store_and_fwd_flag.
+store_and_fwd_flag,operational,Column store_and_fwd_flag represents whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,store_and_fwd_flag is used for whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,Business definition for store_and_fwd_flag: whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,Schema attribute store_and_fwd_flag captures whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,Data dictionary entry store_and_fwd_flag: whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,store_and_fwd_flag — whether the trip record was held in vehicle memory before transmission.
+store_and_fwd_flag,operational,"In the trip record, store_and_fwd_flag means whether the trip record was held in vehicle memory before transmission."
+store_and_fwd_flag,operational,Technical field store_and_fwd_flag contains whether the trip record was held in vehicle memory before transmission.
+PULocationID,location,PULocationID: TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,Field PULocationID records TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,Metadata element PULocationID; meaning: TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,TLC taxi zone identifier where the meter was engaged; source field is PULocationID.
+PULocationID,location,Column PULocationID represents TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,PULocationID is used for TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,Business definition for PULocationID: TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,Schema attribute PULocationID captures TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,Data dictionary entry PULocationID: TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,PULocationID — TLC taxi zone identifier where the meter was engaged.
+PULocationID,location,"In the trip record, PULocationID means TLC taxi zone identifier where the meter was engaged."
+PULocationID,location,Technical field PULocationID contains TLC taxi zone identifier where the meter was engaged.
+DOLocationID,location,DOLocationID: TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,Field DOLocationID records TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,Metadata element DOLocationID; meaning: TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,TLC taxi zone identifier where the meter was disengaged; source field is DOLocationID.
+DOLocationID,location,Column DOLocationID represents TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,DOLocationID is used for TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,Business definition for DOLocationID: TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,Schema attribute DOLocationID captures TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,Data dictionary entry DOLocationID: TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,DOLocationID — TLC taxi zone identifier where the meter was disengaged.
+DOLocationID,location,"In the trip record, DOLocationID means TLC taxi zone identifier where the meter was disengaged."
+DOLocationID,location,Technical field DOLocationID contains TLC taxi zone identifier where the meter was disengaged.
+payment_type,identifier,payment_type: numeric code describing how the passenger paid.
+payment_type,identifier,Field payment_type records numeric code describing how the passenger paid.
+payment_type,identifier,Metadata element payment_type; meaning: numeric code describing how the passenger paid.
+payment_type,identifier,numeric code describing how the passenger paid; source field is payment_type.
+payment_type,identifier,Column payment_type represents numeric code describing how the passenger paid.
+payment_type,identifier,payment_type is used for numeric code describing how the passenger paid.
+payment_type,identifier,Business definition for payment_type: numeric code describing how the passenger paid.
+payment_type,identifier,Schema attribute payment_type captures numeric code describing how the passenger paid.
+payment_type,identifier,Data dictionary entry payment_type: numeric code describing how the passenger paid.
+payment_type,identifier,payment_type — numeric code describing how the passenger paid.
+payment_type,identifier,"In the trip record, payment_type means numeric code describing how the passenger paid."
+payment_type,identifier,Technical field payment_type contains numeric code describing how the passenger paid.
+fare_amount,financial,fare_amount: time and distance fare calculated by the meter.
+fare_amount,financial,Field fare_amount records time and distance fare calculated by the meter.
+fare_amount,financial,Metadata element fare_amount; meaning: time and distance fare calculated by the meter.
+fare_amount,financial,time and distance fare calculated by the meter; source field is fare_amount.
+fare_amount,financial,Column fare_amount represents time and distance fare calculated by the meter.
+fare_amount,financial,fare_amount is used for time and distance fare calculated by the meter.
+fare_amount,financial,Business definition for fare_amount: time and distance fare calculated by the meter.
+fare_amount,financial,Schema attribute fare_amount captures time and distance fare calculated by the meter.
+fare_amount,financial,Data dictionary entry fare_amount: time and distance fare calculated by the meter.
+fare_amount,financial,fare_amount — time and distance fare calculated by the meter.
+fare_amount,financial,"In the trip record, fare_amount means time and distance fare calculated by the meter."
+fare_amount,financial,Technical field fare_amount contains time and distance fare calculated by the meter.
+extra,financial,extra: miscellaneous extras and surcharges.
+extra,financial,Field extra records miscellaneous extras and surcharges.
+extra,financial,Metadata element extra; meaning: miscellaneous extras and surcharges.
+extra,financial,miscellaneous extras and surcharges; source field is extra.
+extra,financial,Column extra represents miscellaneous extras and surcharges.
+extra,financial,extra is used for miscellaneous extras and surcharges.
+extra,financial,Business definition for extra: miscellaneous extras and surcharges.
+extra,financial,Schema attribute extra captures miscellaneous extras and surcharges.
+extra,financial,Data dictionary entry extra: miscellaneous extras and surcharges.
+extra,financial,extra — miscellaneous extras and surcharges.
+extra,financial,"In the trip record, extra means miscellaneous extras and surcharges."
+extra,financial,Technical field extra contains miscellaneous extras and surcharges.
+mta_tax,financial,mta_tax: MTA tax automatically triggered by the metered rate.
+mta_tax,financial,Field mta_tax records MTA tax automatically triggered by the metered rate.
+mta_tax,financial,Metadata element mta_tax; meaning: MTA tax automatically triggered by the metered rate.
+mta_tax,financial,MTA tax automatically triggered by the metered rate; source field is mta_tax.
+mta_tax,financial,Column mta_tax represents MTA tax automatically triggered by the metered rate.
+mta_tax,financial,mta_tax is used for MTA tax automatically triggered by the metered rate.
+mta_tax,financial,Business definition for mta_tax: MTA tax automatically triggered by the metered rate.
+mta_tax,financial,Schema attribute mta_tax captures MTA tax automatically triggered by the metered rate.
+mta_tax,financial,Data dictionary entry mta_tax: MTA tax automatically triggered by the metered rate.
+mta_tax,financial,mta_tax — MTA tax automatically triggered by the metered rate.
+mta_tax,financial,"In the trip record, mta_tax means MTA tax automatically triggered by the metered rate."
+mta_tax,financial,Technical field mta_tax contains MTA tax automatically triggered by the metered rate.
+tip_amount,financial,tip_amount: tip amount; cash tips are not included.
+tip_amount,financial,Field tip_amount records tip amount; cash tips are not included.
+tip_amount,financial,Metadata element tip_amount; meaning: tip amount; cash tips are not included.
+tip_amount,financial,tip amount; cash tips are not included; source field is tip_amount.
+tip_amount,financial,Column tip_amount represents tip amount; cash tips are not included.
+tip_amount,financial,tip_amount is used for tip amount; cash tips are not included.
+tip_amount,financial,Business definition for tip_amount: tip amount; cash tips are not included.
+tip_amount,financial,Schema attribute tip_amount captures tip amount; cash tips are not included.
+tip_amount,financial,Data dictionary entry tip_amount: tip amount; cash tips are not included.
+tip_amount,financial,tip_amount — tip amount; cash tips are not included.
+tip_amount,financial,"In the trip record, tip_amount means tip amount; cash tips are not included."
+tip_amount,financial,Technical field tip_amount contains tip amount; cash tips are not included.
+tolls_amount,financial,tolls_amount: total tolls paid during the trip.
+tolls_amount,financial,Field tolls_amount records total tolls paid during the trip.
+tolls_amount,financial,Metadata element tolls_amount; meaning: total tolls paid during the trip.
+tolls_amount,financial,total tolls paid during the trip; source field is tolls_amount.
+tolls_amount,financial,Column tolls_amount represents total tolls paid during the trip.
+tolls_amount,financial,tolls_amount is used for total tolls paid during the trip.
+tolls_amount,financial,Business definition for tolls_amount: total tolls paid during the trip.
+tolls_amount,financial,Schema attribute tolls_amount captures total tolls paid during the trip.
+tolls_amount,financial,Data dictionary entry tolls_amount: total tolls paid during the trip.
+tolls_amount,financial,tolls_amount — total tolls paid during the trip.
+tolls_amount,financial,"In the trip record, tolls_amount means total tolls paid during the trip."
+tolls_amount,financial,Technical field tolls_amount contains total tolls paid during the trip.
+improvement_surcharge,financial,improvement_surcharge: improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,Field improvement_surcharge records improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,Metadata element improvement_surcharge; meaning: improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,improvement surcharge assessed at flag drop; source field is improvement_surcharge.
+improvement_surcharge,financial,Column improvement_surcharge represents improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,improvement_surcharge is used for improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,Business definition for improvement_surcharge: improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,Schema attribute improvement_surcharge captures improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,Data dictionary entry improvement_surcharge: improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,improvement_surcharge — improvement surcharge assessed at flag drop.
+improvement_surcharge,financial,"In the trip record, improvement_surcharge means improvement surcharge assessed at flag drop."
+improvement_surcharge,financial,Technical field improvement_surcharge contains improvement surcharge assessed at flag drop.
+total_amount,financial,total_amount: total amount charged to the passenger excluding cash tips.
+total_amount,financial,Field total_amount records total amount charged to the passenger excluding cash tips.
+total_amount,financial,Metadata element total_amount; meaning: total amount charged to the passenger excluding cash tips.
+total_amount,financial,total amount charged to the passenger excluding cash tips; source field is total_amount.
+total_amount,financial,Column total_amount represents total amount charged to the passenger excluding cash tips.
+total_amount,financial,total_amount is used for total amount charged to the passenger excluding cash tips.
+total_amount,financial,Business definition for total_amount: total amount charged to the passenger excluding cash tips.
+total_amount,financial,Schema attribute total_amount captures total amount charged to the passenger excluding cash tips.
+total_amount,financial,Data dictionary entry total_amount: total amount charged to the passenger excluding cash tips.
+total_amount,financial,total_amount — total amount charged to the passenger excluding cash tips.
+total_amount,financial,"In the trip record, total_amount means total amount charged to the passenger excluding cash tips."
+total_amount,financial,Technical field total_amount contains total amount charged to the passenger excluding cash tips.
+congestion_surcharge,financial,congestion_surcharge: congestion surcharge collected for the trip.
+congestion_surcharge,financial,Field congestion_surcharge records congestion surcharge collected for the trip.
+congestion_surcharge,financial,Metadata element congestion_surcharge; meaning: congestion surcharge collected for the trip.
+congestion_surcharge,financial,congestion surcharge collected for the trip; source field is congestion_surcharge.
+congestion_surcharge,financial,Column congestion_surcharge represents congestion surcharge collected for the trip.
+congestion_surcharge,financial,congestion_surcharge is used for congestion surcharge collected for the trip.
+congestion_surcharge,financial,Business definition for congestion_surcharge: congestion surcharge collected for the trip.
+congestion_surcharge,financial,Schema attribute congestion_surcharge captures congestion surcharge collected for the trip.
+congestion_surcharge,financial,Data dictionary entry congestion_surcharge: congestion surcharge collected for the trip.
+congestion_surcharge,financial,congestion_surcharge — congestion surcharge collected for the trip.
+congestion_surcharge,financial,"In the trip record, congestion_surcharge means congestion surcharge collected for the trip."
+congestion_surcharge,financial,Technical field congestion_surcharge contains congestion surcharge collected for the trip.
+airport_fee,financial,airport_fee: airport pickup fee where applicable.
+airport_fee,financial,Field airport_fee records airport pickup fee where applicable.
+airport_fee,financial,Metadata element airport_fee; meaning: airport pickup fee where applicable.
+airport_fee,financial,airport pickup fee where applicable; source field is airport_fee.
+airport_fee,financial,Column airport_fee represents airport pickup fee where applicable.
+airport_fee,financial,airport_fee is used for airport pickup fee where applicable.
+airport_fee,financial,Business definition for airport_fee: airport pickup fee where applicable.
+airport_fee,financial,Schema attribute airport_fee captures airport pickup fee where applicable.
+airport_fee,financial,Data dictionary entry airport_fee: airport pickup fee where applicable.
+airport_fee,financial,airport_fee — airport pickup fee where applicable.
+airport_fee,financial,"In the trip record, airport_fee means airport pickup fee where applicable."
+airport_fee,financial,Technical field airport_fee contains airport pickup fee where applicable.
+cbd_congestion_fee,financial,cbd_congestion_fee: congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,Field cbd_congestion_fee records congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,Metadata element cbd_congestion_fee; meaning: congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,congestion pricing charge reported for trips beginning with 2025 data; source field is cbd_congestion_fee.
+cbd_congestion_fee,financial,Column cbd_congestion_fee represents congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,cbd_congestion_fee is used for congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,Business definition for cbd_congestion_fee: congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,Schema attribute cbd_congestion_fee captures congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,Data dictionary entry cbd_congestion_fee: congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,cbd_congestion_fee — congestion pricing charge reported for trips beginning with 2025 data.
+cbd_congestion_fee,financial,"In the trip record, cbd_congestion_fee means congestion pricing charge reported for trips beginning with 2025 data."
+cbd_congestion_fee,financial,Technical field cbd_congestion_fee contains congestion pricing charge reported for trips beginning with 2025 data.
