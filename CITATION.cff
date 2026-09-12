@@ -1,4 +1,3 @@
-```yaml
 cff-version: 1.2.0
 message: "If you use this software or reproducibility package in your research, please cite it using the metadata below."
 
@@ -21,8 +20,8 @@ repository-code: "https://github.com/adiranjan25/AI_Metadata_Reproducibility_Pac
 url: "https://github.com/adiranjan25/AI_Metadata_Reproducibility_Package"
 
 license: Apache-2.0
-version: 1.0.0
-date-released: 2026-09-12
+version: "1.0.0"
+date-released: "2026-09-12"
 
 keywords:
   - metadata management
@@ -43,8 +42,7 @@ preferred-citation:
   authors:
     - family-names: "Aditya Ranjan"
       given-names: "FNU"
-  version: 1.0.0
-  date-released: 2026-09-12
+  version: "1.0.0"
+  date-released: "2026-09-12"
   repository-code: "https://github.com/adiranjan25/AI_Metadata_Reproducibility_Package"
   license: Apache-2.0
-```
